@@ -205,4 +205,4 @@ This variant aligns with exploratory QM foundations, potentially resolving the m
 
 - **Broader/Potential Risks:**
   - **Slight Energy Non-Conservation:** Random jitters could cause minor heating in isolated systems, observable in ultra-cold traps or astrophysics (e.g., tighter bounds on neutron star cooling).
-  - **Philosophical Shifts:** It reinforces realism (waves and jitters are "real") but introduces fundamental randomness, potentially blurring free will or causality in retrocausal loops.
+  - **Philosophical Shifts:** It reinforces realism (waves and jitters are "real") but introduces fundamental randomness, not blurring free will under any circumstances, but complicating causality in retrocausal loops.

@@ -145,6 +145,8 @@ Results (from execution):
 
 The plot (uncond_jitters_plot.png) shows distinct jitter patterns, with variances differing by ~3:1, allowing demon decoding via jitter strength.
 
+![uncond_jitters_plot.png](uncond_jitters_plot.png)
+
 ## Conclusion
 This framework demonstrates how surfaced stochastic jitters enable retrocausal signaling in a Bohmian extension, with the demon amplifying biases for reliable communication. Simulations confirm variance as an exploitable descriptor. Future work could refine $D$ via experimental bounds.
 

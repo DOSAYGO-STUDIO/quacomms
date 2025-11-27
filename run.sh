@@ -10,7 +10,7 @@ source quantum_venv/bin/activate
 pip install qutip numpy matplotlib
 
 # Run the simulation code (assumes file is simulate_quantum_comm.py)
-python simulate_quantum_comm.py
+python sim.py
 
 # Deactivate venv (optional, but good practice)
 deactivate
